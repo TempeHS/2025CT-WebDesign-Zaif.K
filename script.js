@@ -1,11 +1,11 @@
 let enterName = prompt("Enter your name");
 let playerGuess;
-let playerFeedback = "test"
-let computerGuess
-loadDIV ();
+//let computerGuess = randomNum( );
+let playerFeedback = enterName;
+loadDIV ( );
 
 function randomNum() { 
-    return Math.floor(Math.random )* ( 10-1) (+1)
+    return Math.floor(Math.random()* ( 10-1+1) +1)
 }
 
 function loadDIV () {

@@ -1,7 +1,15 @@
+ 
 .lightBand {
 background-color: rgb(55, 120, 172);
 }
 
 .darkBand {
 background: color 333px;;
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: rgb(228, 13, 13);
+
 }
